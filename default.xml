@@ -393,6 +393,6 @@
 
   <project path="packages/wallpapers/CyanBox" name="CyanBox_wallpapers" remote="cyanbox" revision="jb-mr1" />
 
-  <project path="rom_manifest" name="rom_manifest" remote="cyan" revision="master" />
+  <project path="rom_manifest" name="rom_manifest" remote="cyanbox" revision="master" />
 </manifest>
 

@@ -29,7 +29,7 @@
   <project path="build" name="android_build" remote="cyanbox" revision="jb-mr1" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="cyanbox" name="build_scripts" remote="cyanbox" revision="jb-mr1" >
+  <project path="cyanbox" name="build_scripts" remote="cyanbox" revision="master" >
     <copyfile src="build_rom.sh" dest="build_rom.sh" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
